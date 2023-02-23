@@ -1,5 +1,7 @@
 [![REUSE status](https://api.reuse.software/badge/github.com/SAP-samples/analytics-cloud-custom-widget)](https://api.reuse.software/info/github.com/SAP-samples/analytics-cloud-custom-widget)
 
+sac 샘플의 fork just 테스팅 목적으로...
+
 # SAP ANALYTICS CLOUD - CUSTOM WIDGET SAMPLES
 <!-- Please include descriptive title -->
 
